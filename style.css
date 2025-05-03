@@ -81,15 +81,15 @@ body
 .dorothystanding {
 	position: fixed;
 	bottom: 0;
-	left: 3%;
-	bottom: 10px;
+	left: 5%;
+	bottom: 90px;
 	z-index: 300;
 }
 .totostanding {
 	position: fixed;
 	bottom: 0;
-	left: 83%;
-	bottom: 30px;
+	left: 80%;
+	bottom: 120px;
 	z-index: 500;
 }
 .valentine a
